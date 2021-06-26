@@ -1,7 +1,7 @@
 {
     "basic_info": {
       "description_header": "Hi",
-      "description": "👋 I'm Davina Griss. Fictional person for preview purposes :) I'm working with newest front-end frameworks like Angular, React and Vue. What you are seeing now is portfolio template from Dorota1997. If you like this portfolio template, make sure to ⭐ the repository to make it more recognizable for other users. Thank you 💜",
+      "description": "👋 I'm Hridhi Sethi, an optimistic, creative, passionate and hard working engineer. My technical interests are Datastructures and algorithms, Software engineering, Database management system, Operating system and OOPS.     🌟 Participant in Girscript summer of code 2021, and contributed to different projects like NeoAlgo, Recess etc.. 🌟 Participant in Microsoft mars colonization program. ",
       "section_name": {
         "about": "About me",
         "projects": "Projects",
@@ -11,107 +11,124 @@
     },
     "projects": [
       {
-        "title": "Animal Shelter",
-        "startDate": "2020",
-        "description": "The most expanded application I had opportunity to work with. I've learned many technologies and my code was reviewed by awesome curator. Application handles all adoption processess and allows to store all evidence on adopting animals from animal shelter.",
+        "title": "Exam-Alteration helper",
+        "startDate": "January-April 2021",
+        "description": "Developed a website, where a faculty can check his exam slots allocation and accordingly request for updating / cancellation of slots. Apart from that it also has additional features of exam time table viewing, exam slots viewing and feedback systems. It is done using software engineering concepts and no-SQL databases.",
         "images": [
-          "images/portfolio/animal-shelter/p1.jpg",
-          "images/portfolio/animal-shelter/p2.jpg"
+          "images/portfolio/Exam_alteration/p1.png",
+          "images/portfolio/Exam_alteration/p2.png",
+          "images/portfolio/Exam_alteration/p3.png"
         ],
-        "url": "",
-        "technologies": [
-          {
-            "class": "devicon-angularjs-plain",
-            "name": "Angular"
-          },
-          {
-            "class": "devicon-typescript-plain",
-            "name": "TypeScript"
-          },
-          {
-            "class": "devicon-csharp-plain",
-            "name": "C#"
-          }
-        ]
-      },
-      {
-        "title": "Photography",
-        "startDate": "2018",
-        "description": "Personal project for study subject. I was responsible for testing photography application that optimizes images with popular algorithms used by graphic editors like Pixlr or Adobe Photoshop. I've earned A grade :)",
-        "images": [
-          "images/portfolio/photography/p1.jpg",
-          "images/portfolio/photography/p2.jpg"
-        ],
-        "url": "https://github.com",
+        "url": "https://exam-alteration.web.app",
         "technologies": [
           {
             "class": "devicon-react-original",
             "name": "React"
           },
           {
-            "class": "devicon-javascript-plain",
-            "name": "JavaScript"
+            "class": "devicon-firebase-plain colored",
+            "name": "Firebase"
+          },
+          {
+            "class": "devicon-bootstrap-plain",
+            "name": "Bootstrap"
+          },
+          {
+            "class": "devicon-selenium-plain",
+            "name": "Selinium"
+          },
+          {
+            "class": "devicon-jest-plain",
+            "name": "Jest"
           }
         ]
       },
       {
-        "title": "3D Object Viewer",
-        "startDate": "2015",
-        "description": "One of the first apps I was working on my internship. I had to develop front-end implementation for app that shows 3D models of known buildings. This was also my first project in Angular framework. I've learned a lot!",
+        "title": "Smart healthcare system",
+        "startDate": "July-December 2020",
+        "description": "Developed a website for smart healthcare systems using Database concepts, providing functionalities such as Medicine prescription, booking appointments with doctors, viewing previous medical history.",
         "images": [
-          "images/portfolio/adventure/p1.jpg",
-          "images/portfolio/adventure/p2.jpg"
+          "images/portfolio/smart_hospital/p1.png",
+          "images/portfolio/smart_hospital/p3.png"
+        ],
+        "url": "https://github.com/hridhi/Smart-Health-Care-",
+        "technologies": [
+          {
+            "class": "devicon-react-original",
+            "name": "React"
+          },
+          {
+            "class": "devicon-nodejs-plain",
+            "name": "Node js"
+          },
+          {
+            "class": "devicon-mysql-plain",
+            "name": "My SQL"
+          }
+        ]
+      },
+      {
+        "title": "Graph-visualization",
+        "startDate": "April-May 2021",
+        "description": "Implemented graph visualizations such as Prim's, Kruskal's and dijkstra's minimum spanning tree algorithm using flask, with both static and dynamic input/ output.",
+        "images": [
+          "images/portfolio/graph/p1.gif",
+          "images/portfolio/graph/p2.png"
         ],
         "url": "https://github.com",
         "technologies": [
           {
-            "class": "devicon-angularjs-plain",
-            "name": "Angular"
+            "class": "devicon-flask-original",
+            "name": "Flask"
           },
           {
-            "class": "devicon-typescript-plain",
-            "name": "TypeScript"
+            "class": "devicon-html5-plain",
+            "name": "HTML"
           },
           {
-            "class": "devicon-csharp-plain",
-            "name": "C#"
+            "class": "devicon-css3-plain",
+            "name": "CSS"
           }
         ]
       }
     ],
     "experience": [
       {
-        "company": "DefOpenSource",
-        "title": "Front-End Developer",
-        "years": "10.2019 - present",
+        "company": "10th standard",
+        "title": "Nirmala high school",
+        "years": "2016",
         "mainTech": [
-          "Angular 8/9/10"
         ],
         "technologies": [
-          "REST API",
-          "RxJS",
-          "JavaScript",
-          "Bootstrap",
-          "MDBootstrap",
-          "EF Core",
-          ".NET Core",
-          "SignalR",
-          "Angular Material"
+          "CGPA: 9.2",
+          "ILM medal of honor",
+          "Basketball runnerup",
+          "Andhra pradesh state board"
         ]
       },
       {
-        "company": "Serros Solutions",
-        "title": "Intern",
-        "years": "01.2018 - 09.2019",
+        "company": "11th and 12th standard",
+        "title": "Sri chaitanya",
+        "years": "2016-2018",
         "mainTech": [
-          "Angular 7/8"
         ],
         "technologies": [
-          "RxJS",
-          "Django",
-          "PHP",
-          "JavaScript",
-          "DHTMLX Gantt"
+          "Percentage: 96.5",
+          "Andhra pradesh state board"
+        ]
+      },
+      {
+        "company": "Btech",
+        "title": "Amrita vishwa vidhyapeetham",
+        "years": "2018-present",
+        "mainTech": [
+        ],
+        "technologies": [
+          "CGPA: 9.2",
+          "Computer science and engineering",
+          "ASCII member",
+          "Placement coordinator",
+          "Frisbee runnersup"
         ]
       }
     ]

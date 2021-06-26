@@ -1,17 +1,27 @@
 {
     "basic_info": {
-      "name": "Davina Griss",
-      "titles": [ "Front-end Developer", "Senior Data Engineer", "Dev Team lead", "Mobile App Developer" ],
+      "name": "Hridhi Sethi",
+      "titles": [ "Computer science student", "Developer", "Life long learner", "Open source contributor" ],
       "social": [
         {
           "name": "github",
-          "url": "https://github.com",
+          "url": "https://github.com/hridhi",
           "class": "fab fa-github"
         },
         {
-          "name": "instagram",
-          "url": "https://www.instagram.com",
-          "class": "fab fa-instagram"
+          "name": "Medium",
+          "url": "https://hridhi-sethi.medium.com",
+          "class": "fab fa-medium"
+        },
+        {
+          "name": "Linkedin",
+          "url": "https://www.linkedin.com/in/hridhisethi/",
+          "class": "fab fa-linkedin"
+        },
+        {
+          "name": "Video Profile",
+          "url": "hridhi.sethi@gmail.com",
+          "class": "fas fa-video"
         }
       ],
       "image": "myProfile.jpg"
@@ -19,33 +29,33 @@
     "skills": {
       "icons": [
         {
-          "name": "HTML 5",
-          "class": "devicon-html5-plain",
+          "name": "git",
+          "class": "devicon-git-plain",
           "level": "95"
         },
         {
-          "name": "CSS 3",
-          "class": "devicon-css3-plain",
+          "name": "Java",
+          "class": "devicon-java-plain",
           "level": "95"
         },
         {
-          "name": "Angular",
-          "class": "devicon-angularjs-plain",
+          "name": "Flask",
+          "class": "devicon-flask-original-wordmark",
           "level": "80"
         },
         {
-          "name": "TypeScript",
-          "class": "devicon-typescript-plain",
+          "name": "Reactjs",
+          "class": "devicon-react-original",
           "level": "90"
         },
         {
-          "name": "JavaScript",
-          "class": "devicon-javascript-plain",
+          "name": "C",
+          "class": "devicon-c-plain",
           "level": "70"
         },
         {
-          "name": "Sass",
-          "class": "devicon-sass-original",
+          "name": "Python",
+          "class": "devicon-python-plain",
           "level": "75"
         },
         {
@@ -54,13 +64,23 @@
           "level": "85"
         },
         {
-          "name": "C#",
-          "class": "devicon-csharp-plain",
-          "level": "65"
-        },
-        {
           "name": "MySql",
           "class": "devicon-mysql-plain",
+          "level": "60"
+        },
+        {
+          "name": "Linux",
+          "class": "devicon-linux-plain",
+          "level": "60"
+        },
+        {
+          "name": "Node JS",
+          "class": "devicon-nodejs-plain",
+          "level": "60"
+        },
+        {
+          "name": "Firebase",
+          "class": "devicon-firebase-plain",
           "level": "60"
         }
       ]
