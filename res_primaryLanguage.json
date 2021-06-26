@@ -1,7 +1,7 @@
 {
     "basic_info": {
       "description_header": "Hi",
-      "description": "👋 I'm Hridhi Sethi, an optimistic, creative, passionate and hard working engineer. My technical interests are Datastructures and algorithms, Software engineering, Database management system, Operating system and OOPS.     🌟 Participant in Girscript summer of code 2021, and contributed to different projects like NeoAlgo, Recess etc..🌟 Participant in Microsoft mars colonization program. ",
+      "description": "👋 I'm Hridhi Sethi, an optimistic, creative, passionate and hard working engineer. My technical interests are Datastructures and algorithms, Software engineering, Database management system, Operating system and OOPS.     🌟 Participant in Girscript summer of code 2021, and contributed to different projects like NeoAlgo, Recess etc... 🌟 Participant in Microsoft mars colonization program. ",
       "section_name": {
         "about": "About me",
         "projects": "Projects",
@@ -26,16 +26,12 @@
             "name": "React"
           },
           {
-            "class": "devicon-firebase-plain colored",
+            "class": "devicon-firebase-plain",
             "name": "Firebase"
           },
           {
             "class": "devicon-bootstrap-plain",
             "name": "Bootstrap"
-          },
-          {
-            "class": "devicon-selenium-plain",
-            "name": "Selinium"
           },
           {
             "class": "devicon-jest-plain",
